@@ -1,0 +1,11 @@
+flask
+flask-cors
+ultralytics
+torch
+torchvision
+opencv-python
+firebase-admin
+cloudinary
+google-cloud-vision
+Pillow
+numpy

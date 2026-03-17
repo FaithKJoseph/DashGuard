@@ -1,0 +1,22 @@
+# 🚨 SECURITY: NEVER PUSH THESE 🚨
+Backend/serviceAccountKey.json
+Backend/cloudinary_keys.txt
+.env
+
+# Heavy AI Models & Datasets
+Backend/*.pt
+Backend/*.pth
+Backend/raw_dataset/
+Backend/cropped_dataset/
+
+# DashGuard Temporary Files
+Backend/evidence/
+Backend/temp_fragments/
+Backend/temp_ocr.jpg
+Backend/__pycache__/
+*.mp4
+Test Videos/
+
+# Frontend/Node
+Frontend/node_modules/
+Frontend/dist/
